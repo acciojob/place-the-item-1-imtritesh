@@ -1,7 +1,6 @@
 
 /* Your CSS Code here. */
 main{
-	width: 650px;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -10,5 +9,7 @@ main{
 .holder{
 	width:120px;
 	height:120px;
+	display: flex;
+	justify-content: space-between;
 	background-color: blue;
 }
